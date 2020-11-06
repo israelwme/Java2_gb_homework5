@@ -45,7 +45,5 @@ arr[i] = (float)(arr[i] * Math.sin(0.2f + i / 5) * Math.cos(0.2f + i / 5) * Math
 
         new ArrayCalc().doOne();
         new ArrayCalc().doTwo();
-
-
     }
 }

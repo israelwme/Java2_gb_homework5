@@ -59,7 +59,5 @@ public class ArrayCalc {
 
             System.out.println(threadName + " is end.");
         });
-
-
     }
 }
